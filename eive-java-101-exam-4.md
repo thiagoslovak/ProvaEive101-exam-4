@@ -1,5 +1,3 @@
-Colaborador: Thiago Slovak Silva Mestriniere Belordi
-
 # Prova Modulo 4
 
 ## Docker / Postgres
